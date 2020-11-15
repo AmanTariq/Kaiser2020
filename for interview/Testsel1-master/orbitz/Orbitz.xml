@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite5" verbose="1" >
+  <test name="Homepg" >
+    <classes>
+       <class name="orbitzT.OrbitzH" />
+    </classes>
+  </test>
+</suite>

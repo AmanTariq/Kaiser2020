@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite5]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Homepg(failed)">
+    <classes>
+      <class name="orbitzT.OrbitzH">
+        <methods>
+          <include name="treetxt"/>
+          <include name="chkin"/>
+          <include name="chbox"/>
+          <include name="joinR"/>
+          <include name="sendph"/>
+          <include name="closethebrowser"/>
+          <include name="crois"/>
+          <include name="searchwidgetsHotl"/>
+          <include name="logo"/>
+          <include name="vp"/>
+          <include name="BeforM"/>
+          <include name="links"/>
+          <include name="searchbar"/>
+          <include name="chat"/>
+          <include name="todo"/>
+          <include name="buldtx"/>
+          <include name="cars"/>
+          <include name="mpUpdate"/>
+          <include name="searchwidgetsair"/>
+        </methods>
+      </class> <!-- orbitzT.OrbitzH -->
+    </classes>
+  </test> <!-- Homepg(failed) -->
+</suite> <!-- Failed suite [Suite5] -->
